@@ -1,16 +1,132 @@
-### Hi there 👋
+# <p align="center">Trần Ngọc Tiến</p>
 
-<!--
-**npk-0709/npk-0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<a href="https://github.com/ngoctienTNT">
+	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	</a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Python
+class NPK:
+    def About(self):
+        self.Name = 'Nguyễn Phú Khương'
+        self.Age = '2005'
+        self.Gender = 'Male'
+        self.Address = 'Tiền Giang, Việt Nam'
+        self.Company = 'Director at K.Auto'
+        self.HighSchool = 'THPT Huỳnh Văn Sâm'
+        self.Skills = 'Python, JavaScript, PHP'
+        self.FamousQuotes = 'Cố gắng mỗi ngày để trở nên tốt hơn'
+```
+
+## <p align="center">You can reach me at 🌹</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/npk070905">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
+  </a>
+	
+  <a href="https://github.com/npk-0709">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
+  </a>
+  
+  <a href="https://dev.to/npk0709">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
+  </a>
+	
+  <a href="https://www.linkedin.com/in/nguyen-phu-khuong0709/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
+  </a>
+  
+  <a href="mailto:dev.phukhuong0709@hotmail.com">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
+  </a>
+	
+  <a href="https://www.instagram.com/_khuong.dzvipno1_/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
+  </a>
+  
+  <a href="https://www.tiktok.com/@nguyen.phu.khuong0709">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UC5D8KHfofbAdPrXR7wtXGGA">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
+  </a>
+</p>
+
+## <p align="center">What I use :alien:</p>
+
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+	<a href="https://devdocs.io/cpp/">
+		<span>𝗖++</span><br><br><br>
+	 </a>
+      </td>
+      <td width="20%" align="center">
+	 <a href="https://docs.microsoft.com/dotnet/csharp/">
+		<span>𝗖#</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 </a>
+      </td>
+      <td width="20%" align="center">
+	<a href="https://docs.oracle.com/java/">
+		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	 </a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://dart.dev/guides">
+        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+		</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://docs.python.org/3/">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	      </a>
+      </td>
+    </tr>
+    <tr valign="top">
+	<td width="20%" align="center">
+		<a href="https://code.visualstudio.com/docs">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+		</a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+		</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://developer.android.com/docs">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	      </a>
+      </td>
+	    <td width="20%" align="center">
+	<a href="https://docs.python.org/3/">
+		<span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://git-scm.com/doc">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+	      </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+##
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
