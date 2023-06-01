@@ -96,19 +96,19 @@ class NPK:
     <tr valign="top">
 	<td width="20%" align="center">
 		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br>
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 <br>𝗖𝗼𝗱𝗲</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 		</a>
       </td>
 	<td width="20%" align="center">
 		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br>
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹<br> 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
 		</a>
       </td>
       <td width="20%" align="center">
 	      <a href="https://developer.android.com/docs">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁</span><br><br>
+        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲<br> 𝗧𝗲𝘅𝘁</span><br><br>
         <img height="64px" src="https://www.sublimehq.com/images/sublime_text.png">
 	      </a>
       </td>
