@@ -114,13 +114,13 @@ class NPK:
       </td>
 	    <td width="20%" align="center">
 	<a href="https://docs.python.org/3/">
-		<span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+		<span>𝗡𝗼𝘁𝗲𝗽𝗮𝗱++</span><br><br><br><br>
+		<img height="64px" src="https://notepad-plus-plus.org/images/logo.svg">
 	</a>
       </td>
       <td width="20%" align="center">
 	      <a href="https://git-scm.com/doc">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗚𝗶𝘁</span><br><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 	      </a>
       </td>
