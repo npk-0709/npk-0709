@@ -63,26 +63,27 @@ class NPK:
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-	<a href="https://devdocs.io/cpp/">
-		<span>𝗖++</span><br><br><br>
+	<a href="https://www.facebook.com/npk070905">
+		<span>𝗣𝗛𝗣</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
-	 <a href="https://docs.microsoft.com/dotnet/csharp/">
+	 <a href="https://www.facebook.com/npk070905">
 		<span>𝗖#</span><br><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
 	<a href="https://docs.oracle.com/java/">
-		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+		<span>𝗠𝘆𝗦𝗾𝗹</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
 	 </a>
       </td>
 	<td width="20%" align="center">
 		<a href="https://dart.dev/guides">
-        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 		</a>
       </td>
       <td width="20%" align="center">
@@ -107,8 +108,8 @@ class NPK:
       </td>
       <td width="20%" align="center">
 	      <a href="https://developer.android.com/docs">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁</span><br><br><br>
+        <img height="64px" src="https://www.sublimehq.com/images/sublime_text.png">
 	      </a>
       </td>
 	    <td width="20%" align="center">
