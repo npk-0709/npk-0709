@@ -96,7 +96,7 @@ class NPK:
     <tr valign="top">
 	<td width="20%" align="center">
 		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br>
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 		</a>
       </td>
@@ -114,13 +114,13 @@ class NPK:
       </td>
 	    <td width="20%" align="center">
 	<a href="https://docs.python.org/3/">
-		<span>𝗡𝗼𝘁𝗲𝗽𝗮𝗱++</span><br><br><br>
+		<span>𝗡𝗼𝘁𝗲𝗽𝗮𝗱++</span><br><br>
 		<img height="64px" src="https://notepad-plus-plus.org/images/logo.svg">
 	</a>
       </td>
       <td width="20%" align="center">
 	      <a href="https://git-scm.com/doc">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗚𝗶𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 	      </a>
       </td>
