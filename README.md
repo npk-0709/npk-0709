@@ -1,8 +1,8 @@
-# <p align="center">Trần Ngọc Tiến</p>
+# <p align="center">NGUYỄN PHÚ KHƯƠNG</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/npk-0709">
+	<img src="https://avatars.githubusercontent.com/u/86942390" width = "200" alt="TNT">
 	</a>
 </p>
 
