@@ -64,31 +64,31 @@ class NPK:
     <tr valign="top">
       <td width="20%" align="center">
 	<a href="https://www.facebook.com/npk070905">
-		<span>𝗣𝗛𝗣</span><br><br><br>
+		<span>𝗣𝗛𝗣</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
 	 <a href="https://www.facebook.com/npk070905">
-		<span>𝗖#</span><br><br><br>
+		<span>𝗖#</span><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
 	<a href="https://docs.oracle.com/java/">
-		<span>𝗠𝘆𝗦𝗾𝗹</span><br><br><br>
+		<span>𝗠𝘆𝗦𝗾𝗹</span><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
 	 </a>
       </td>
 	<td width="20%" align="center">
 		<a href="https://dart.dev/guides">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 		</a>
       </td>
       <td width="20%" align="center">
 	      <a href="https://docs.python.org/3/">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
 	      </a>
       </td>
@@ -96,31 +96,31 @@ class NPK:
     <tr valign="top">
 	<td width="20%" align="center">
 		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 		</a>
       </td>
 	<td width="20%" align="center">
 		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
 		</a>
       </td>
       <td width="20%" align="center">
 	      <a href="https://developer.android.com/docs">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁</span><br><br><br>
+        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁</span><br><br>
         <img height="64px" src="https://www.sublimehq.com/images/sublime_text.png">
 	      </a>
       </td>
 	    <td width="20%" align="center">
 	<a href="https://docs.python.org/3/">
-		<span>𝗡𝗼𝘁𝗲𝗽𝗮𝗱++</span><br><br><br><br>
+		<span>𝗡𝗼𝘁𝗲𝗽𝗮𝗱++</span><br><br><br>
 		<img height="64px" src="https://notepad-plus-plus.org/images/logo.svg">
 	</a>
       </td>
       <td width="20%" align="center">
 	      <a href="https://git-scm.com/doc">
-        <span>𝗚𝗶𝘁</span><br><br><br><br>
+        <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 	      </a>
       </td>
