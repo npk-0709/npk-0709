@@ -17,6 +17,7 @@ class NPK:
         self.Address = 'Tiền Giang, Việt Nam'
         self.Company = 'Director at K.Auto'
         self.HighSchool = 'THPT Huỳnh Văn Sâm'
+	self.University = 'FPT University'
         self.Skills = 'Python, JavaScript, PHP'
         self.FamousQuotes = 'Cố gắng mỗi ngày để trở nên tốt hơn'
 ```
