@@ -14,13 +14,12 @@ class NPK:
         self.Name = 'Nguyễn Phú Khương'
         self.Age = '2005'
         self.Gender = 'Male'
-        self.Address = 'Tiền Giang, Việt Nam'
-        self.Company = 'Director at K.Auto'
-        self.HighSchool = 'THPT Huỳnh Văn Sâm'
+        self.Address = 'Tien Giang, Viet Nam'
+        self.HighSchool = 'Huynh Van Sam HighSchool'
 	self.University = 'FPT University'
 	self.MainSkills = 'Python, JavaScript, PHP'
         self.OtherSkills = 'Java, SQL, Golang, C/C++, C#, Ruby'
-        self.FamousQuotes = 'Hãy cố gắng cho đến khi bạn không cần giới thiệu bạn là ai !'
+        self.FamousQuotes = 'Try until you don't need to introduce who you are! !'
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
