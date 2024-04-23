@@ -20,7 +20,7 @@ class NPK:
 	self.University = 'FPT University'
 	self.MainSkills = 'Python, JavaScript, PHP'
         self.OtherSkills = 'Java, SQL, Golang, C/C++, C#, Ruby'
-        self.FamousQuotes = 'Cố gắng mỗi ngày để trở nên tốt hơn'
+        self.FamousQuotes = 'Hãy cố gắng cho đến khi bạn không cần giới thiệu bạn là ai !'
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
