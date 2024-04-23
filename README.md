@@ -18,7 +18,8 @@ class NPK:
         self.Company = 'Director at K.Auto'
         self.HighSchool = 'THPT Huỳnh Văn Sâm'
 	self.University = 'FPT University'
-        self.Skills = 'Python, JavaScript, PHP'
+	self.MainSkills = 'Python, JavaScript, PHP'
+        self.OtherSkills = 'Java, SQL, Golang, C/C++, C#, Ruby'
         self.FamousQuotes = 'Cố gắng mỗi ngày để trở nên tốt hơn'
 ```
 
