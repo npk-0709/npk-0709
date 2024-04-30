@@ -117,7 +117,7 @@ class NPK:
 	    <td width="20%" align="center">
 	<a href="">
 		<span>𝗣𝗼𝘀𝘁𝗺𝗮𝗻</span><br><br><br>
-		<img height="64px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png">
+		<img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png">
 	</a>
       </td>
       <td width="20%" align="center">
