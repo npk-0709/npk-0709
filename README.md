@@ -78,8 +78,8 @@ class NPK:
       </td>
       <td width="20%" align="center">
 	<a href="https://docs.oracle.com/java/">
-		<span>𝗠𝘆𝗦𝗾𝗹</span><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+		<span>Java</span><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 	 </a>
       </td>
 	<td width="20%" align="center">
