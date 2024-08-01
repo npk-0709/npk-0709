@@ -18,8 +18,8 @@ class NPK:
         self.HighSchool = 'Huỳnh Văn Sâm HighSchool'
 	self.University = 'FPT University - Software Technology'
 	self.MainSkills = 'Python, JavaScript, PHP'
-        self.OtherSkills = 'Java, SQL, Golang, C/C++, C#, Ruby'
-	self.CommonlyUsedFrameworks = 'Django, Laravel, React, ASP.Net, Spring'
+        self.OtherSkills = 'Java, SQL, C/C++, C#'
+	self.CommonlyUsedFrameworks = 'Django, Laravel, React, Spring'
         self.FamousQuotes = 'Try until you do not need to introduce who you are! !'
 ```
 
