@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 	<a href="https://github.com/npk-0709">
-	<img src="https://avatars.githubusercontent.com/u/86942390" width = "200" alt="NGUYEN PHU KHUONG">
+	<img src="anim.gif" width = "200" alt="NGUYEN PHU KHUONG">
 	</a>
 </p>
 
