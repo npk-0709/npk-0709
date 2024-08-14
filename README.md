@@ -28,7 +28,7 @@ class NPK:
 
 <p align="center">
   <a href="https://www.facebook.com/npk070905">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
+    <img src="https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/eFZD1KABzRA.png" alt="Facebook" height="30" width="30">
   </a>
 	
   <a href="https://github.com/npk-0709">
