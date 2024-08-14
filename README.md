@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Recursive&size=30&duration=3000&pause=700&color=FF5733&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Nguyễn+Phú+Khương" alt="Nguyễn Phú Khương">
 </p>
-# <p align="center">NGUYỄN PHÚ KHƯƠNG</p>
-
 <p align="center">
 	<a href="https://github.com/npk-0709">
 	<img src="https://avatars.githubusercontent.com/u/86942390" width = "200" alt="NGUYEN PHU KHUONG">
