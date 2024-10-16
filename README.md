@@ -20,7 +20,7 @@ class NPK:
 	self.University = 'FPT University - Software Engineering'
 	self.MainSkills = 'Python, JavaScript, PHP'
         self.OtherSkills = 'Java, SQL, C/C++, C#'
-	self.CommonlyUsedFrameworks = 'Django, Laravel, React, Spring'
+	self.CommonlyUsedFrameworks = 'Flask, FastAPI, Laravel, React, Spring'
         self.FamousQuotes = 'Try until you do not need to introduce who you are! !'
 ```
 
