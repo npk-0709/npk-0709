@@ -17,7 +17,7 @@ class NPK:
         self.Gender = 'Male'
         self.Address = 'Tiền Giang, Viet Nam'
         self.HighSchool = 'Huỳnh Văn Sâm HighSchool'
-	self.University = 'FPT University - Software Technology'
+	self.University = 'FPT University - Software Engineering'
 	self.MainSkills = 'Python, JavaScript, PHP'
         self.OtherSkills = 'Java, SQL, C/C++, C#'
 	self.CommonlyUsedFrameworks = 'Django, Laravel, React, Spring'
