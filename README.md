@@ -25,9 +25,9 @@ class NPK:
 ```
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=npk-0709&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=npk-0709&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=npk-0709&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=npk-0709&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=npk-0709&theme=radical&hide_border=true&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=npk-0709&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## <p align="center">You can reach me at 🌹</p>
 
