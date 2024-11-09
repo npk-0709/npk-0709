@@ -15,7 +15,7 @@ class NPK:
         self.Name = 'Nguyễn Phú Khương'
         self.Age = '2005'
         self.Gender = 'Male'
-        self.Address = 'Tiền Giang, Viet Nam'
+        self.Address = 'Tien Giang, Viet Nam'
         self.HighSchool = 'Huỳnh Văn Sâm HighSchool'
 	self.University = 'FPT University HCM'
 	self.MainSkills = 'Python, JavaScript, PHP'
