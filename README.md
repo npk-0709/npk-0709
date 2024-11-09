@@ -17,9 +17,9 @@ class NPK:
         self.Gender = 'Male'
         self.Address = 'Tiền Giang, Viet Nam'
         self.HighSchool = 'Huỳnh Văn Sâm HighSchool'
-	self.University = 'FPT University - Software Engineering'
+	self.University = 'FPT University HCM'
 	self.MainSkills = 'Python, JavaScript, PHP'
-        self.OtherSkills = 'Java, SQL, C/C++, C#'
+        self.OtherSkills = 'SQL, NoSQL, C/C++, C#, Java'
 	self.CommonlyUsedFrameworks = 'Flask, FastAPI, Laravel, React, Spring'
         self.FamousQuotes = 'Try until you do not need to introduce who you are! !'
 ```
