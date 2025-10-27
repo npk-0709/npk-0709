@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Recursive&size=30&duration=3000&pause=700&color=FF5733&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Nguyễn+Phú+Khương;I'm+Currently+Learning" alt="Nguyễn Phú Khương">
+  <p src="https://readme-typing-svg.demolab.com?font=Recursive&size=30&duration=3000&pause=700&color=FF5733&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Nguyễn+Phú+Khương;I'm+Currently+Learning" alt="Nguyễn Phú Khương"></p>
 </p>
 <p align="center">
 	<a href="https://github.com/npk-0709">
