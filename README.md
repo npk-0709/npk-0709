@@ -12,13 +12,13 @@
 ```Python
 class NPK:
     def About(self):
-        self.Name = 'NGUYEN PHU KHUONG'
+        self.Name = 'Nguyễn Phú Khương'
         self.Age = '2005'
         self.Gender = 'Male'
         self.Address = 'Tien Giang, Viet Nam'
         self.HighSchool = 'Huỳnh Văn Sâm HighSchool'
 		self.University = 'FPT University HCMC'
-        self.FamousQuotes = 'Try until you do not need to introduce who you are! !'
+        self.FamousQuotes = 'Try until you do not need to introduce who you are..!'
 ```
 # 💻Tech Stack
 
