@@ -17,7 +17,7 @@ class NPK:
         self.Gender = 'Male'
         self.Address = 'Tien Giang, Viet Nam'
         self.HighSchool = 'Huỳnh Văn Sâm HighSchool'
-		    self.University = 'FPT University HCMC'
+		self.University = 'FPT University HCMC'
         self.FamousQuotes = 'Try until you do not need to introduce who you are! !'
 ```
 # 💻Tech Stack
